@@ -24,7 +24,7 @@ steps.date <- aggregate(steps ~ date, data = activity, FUN = sum)
 barplot(steps.date$steps, names.arg = steps.date$date, xlab = "date", ylab = "steps")
 ```
 
-![plot of chunk unnamed-chunk-2](figure/unnamed-chunk-2.png) 
+![plot of chunk unnamed-chunk-2](http://holachocoza.com/FIGURE/2.png) 
 
 
 2. Calculate and report the **mean** and **median** total number of
