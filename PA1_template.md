@@ -4,7 +4,7 @@ by Fabian Linzberger
 github repo with RMarkdown source code:
 https://github.com/achocoza/RepData_PeerAssessment1  
 online rendered version on github pages:
-http://holachocoza.com/RepData_PeerAssessment1/index.html  
+http://holachocoza.com/RepDatAssessment1/index.html
 
 ## Loading and preprocessing the data
 
